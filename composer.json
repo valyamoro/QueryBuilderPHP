@@ -1,0 +1,9 @@
+{
+  "name": "kutlumbek/qb-php.my",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "require": {}
+}
